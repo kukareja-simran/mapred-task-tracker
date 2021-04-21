@@ -1,5 +1,5 @@
 ---
 # vars file for mapred_task_tracker
-jtip: 192.168.43.30
-port_no: 9004
+jtip: job_tracker_ip
+port_no: port
 
